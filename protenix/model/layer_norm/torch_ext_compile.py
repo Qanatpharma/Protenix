@@ -55,6 +55,8 @@ def compile(
         ("89", "89"),
         ("90", "90"),
         ("100", "100"),
+        ("120", "120"),
+        ("121", "121"),
     ]
     gencode_flags = []
     for compute, sm in _wanted:

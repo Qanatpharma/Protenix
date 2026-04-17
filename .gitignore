@@ -87,6 +87,11 @@ ipython_config.py
 # data cache and checkpoints
 data_cache/
 checkpoints/
+# Protenix-downloaded dataset / model weights (multi-GB, machine-local)
+data/
+
+# Local dev notes (project-specific, not for upstream)
+CLAUDE.md
 
 .pdm.toml
 
